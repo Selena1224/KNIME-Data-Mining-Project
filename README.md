@@ -48,7 +48,7 @@ This project demonstrates how machine learning can enhance hiring decisions by:
 - Further hyperparameter tuning to optimize accuracy  
 - Incorporating real-time labor market data for better hiring predictions  
 - Exploring deep learning approaches (e.g., Neural Networks) for more advanced modeling  
-- Comparing results with other ML platforms such as RapidMiner and Altair AI Studio  
+- Comparing results with other ML platforms 
 
 ## 7. Repository Contents  
 - **`HP_Data_Analysis.knwf`** → KNIME workflow for data preprocessing and model training  
